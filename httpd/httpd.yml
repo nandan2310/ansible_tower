@@ -1,5 +1,4 @@
 - name: htttp setup
-  hosts: 192.168.85.128
   tasks:
     - name: install htttpd
       yum:
